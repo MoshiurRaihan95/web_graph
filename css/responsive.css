@@ -1,0 +1,304 @@
+
+@media only screen and (max-width: 991px) {
+    .navber_default .navber_nav li a{
+        font-size: 13px;
+        padding: 22px 12px 18px 12px;
+    }
+    .apply_now{
+        margin-top: -1px;
+    }
+    .apply_now a{
+        width: 108px;
+        padding: 0px 0px 0px 0px;
+        border-top: 58px solid #f5c12f;
+        border-left: 30px solid transparent;
+    }
+    .apply_now a button{
+        font-size: 14px;
+        width: 80px;
+        right: 5px;
+    }
+    /*carousel_slider_css_start*/
+    .fade .item{
+        height: 384px;
+    }
+    .slide-text > a.btn-primary{
+        padding: 15px 25px;
+    }
+    .slide-text h1{
+        font-size: 30px;
+        line-height: 20px;
+    }
+    .slide-text > p{
+        font-size: 17px !important;
+        line-height: 10px;
+    }
+    /*about_us_css_start*/
+    .about_us_left img{
+        height: 392px;
+        width: 200px;
+        float: left;
+    }
+    .about_us_right_content{
+        width: 69%;
+        float: right;
+        margin-top: -45px;
+    }
+    .heading{
+
+    }
+    .heading h1{
+        font-size: 25px;
+    }
+    .about_us_right h5{
+        font-size: 15px;
+        margin: 10px 0px 0px 0px;
+    }
+    .about_us_right p{
+        margin: 15px 0px 0px 0px;
+    }
+    .about_us_right ul li a img{
+        width: 50px;
+        height: 50px;
+    }
+    .about_us_right ul{
+        margin: 20px 0px 0px 0px;
+    }
+    .about_us_right ul li a p{
+        margin: 5px 0px 0px 0px;
+        font-size: 12px;
+    }
+    /*our_courses_css_start*/
+    .our_courses{
+        padding: 50px 0px;
+    }
+    .heading_titles h1{
+        font-size: 25px;
+    }
+    .price_table{
+        padding: 50px 0px;
+    }
+    .videos_details h3{
+        margin-top: 30px;
+    }
+    .our_trainer{
+        padding: 50px 0px;
+    }
+    .trainer .overlay{
+        height: 270px;
+    }
+    .trainer .overlay ul{
+        margin: 5px 0px;
+    }
+    .trainer{
+        margin: 40px 0px 0px 0px;
+    }
+    .our_blogs{
+        padding: 50px 0px;
+    }
+    .our_blog h3{
+        font-size: 20px;
+    }
+    .testimonials{
+        margin: 50px 0px;
+    }
+    .media-carousel .carousel-control.left{
+        left: -80px;
+    }
+    .media-carousel .carousel-control.right{
+        right: -80px !important;
+    }
+    .contact_us{
+        padding: 50px 0px;
+    }
+    .newsletter_left img{
+        width: 72px;
+        height: 90px;
+    }
+    .newsletter_left h3{
+        font-size: 18px;
+        line-height: 17px;
+        width: 73%;
+    }
+    .newsletter_left p{
+        font-size: 13px;
+        line-height: 19px;
+        width: 73%;
+    }
+    .counters h2{
+        font-size: 30px;
+    }
+    .footer_contant_last_two{
+        margin-top: 295px;
+    }
+}
+@media only screen and (max-width: 360px) {
+    .defult_button{
+        padding: 10px 30px;
+    }
+    .navbar-brand{
+        float: right;
+    }
+    .company_logo{
+        margin: 0px;
+    }
+    .navber_default{
+        background-color: transparent;
+        margin-top: -80px;
+    }
+    .mobile_menu{
+        top: 23px;
+        left: 0px;
+        background-color: #252930;
+    }
+    .newstype_menu_mobile{
+        top: 28px;
+        width: 160px;
+        background-color: #252930;
+    }
+    .newstype_menu_mobile ul li a{
+        font-size: 13px;
+        text-transform: uppercase;
+    }
+    .list-unstyled{
+        margin: 14px 0px 0px -15px;
+        padding: 0px;
+    }
+    .list-unstyled li{
+        margin: 0px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
+        width: 127%;
+    }
+    .newstype_menu_mobile ul li a:hover {
+        color: yellow;
+    }
+    .slide-text h1{
+        font-size: 18px;
+        margin: 0px;
+        padding: 0px;
+    }
+    .slide-text > p{
+        margin: 10px 0px 20px 0px;
+        padding: 0px;
+        font-size: 12px !important;
+        line-height: 0px;
+    }
+    .slide-text > a.btn-primary{
+        margin: 0px;
+        padding: 10px 15px;
+        font-size: 12px;
+    }
+    .slide-text{
+        top: 16px;
+    }
+    .bs-slider .bs-slider-overlay{
+        background-color: transparent;
+    }
+    .bs-slider{
+        background-color: transparent;
+    }
+    .about_us_right_content{
+        width: 100%;
+        margin-top: -296px;
+    }
+    .about_us_right h5{
+        font-size: 13px;
+    }
+    .about_us_right p{
+        margin: 10px 0px 0px 0px;
+        font-size: 12px;
+    }
+    .heading h1{
+        font-size: 20px;
+        margin: auto;
+        text-align: center;
+    }
+    .about_us_right ul li a img{
+        width: 30px;
+        height: 30px;
+    }
+    .our_courses{
+        padding: 20px 0px;
+    }
+    .defult_button{
+        margin: 0px 0px 25px 0px;
+    }
+    .heading_titles h1{
+        font-size: 18px;
+    }
+    .videos img{
+        width: 100%;
+        margin: 15px 0px 26px 0px;
+    }
+    .our_videos{
+        padding: 25px 0px;
+    }
+    .videos_details{
+        margin: 0px;
+    }
+    .videos_details h3{
+        margin: 0px;
+        font-size: 15px;
+    }
+    .videos_details p{
+        font-size: 12px;
+    }
+    .price_table{
+        padding: 25px 0px;
+    }
+    .videos_profile h2{
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .our_trainer{
+        padding: 25px 0px;
+    }
+    .trainer .overlay{
+        height: 257px;
+    }
+    .trainer .overlay ul{
+        margin: -2px 0px;
+    }
+    .our_blog h3{
+        font-size: 18px;
+        margin: 10px 0px 16px 0px;
+    }
+    .our_blogs{
+        padding: 25px 0px;
+    }
+    .our_blog p{
+        font-size: 12px;
+        margin: 0px auto 0px auto;
+    }
+    .pricin_button{
+        padding: 25px 0px 2px 0px;
+    }
+    .table_columns ul li{
+        padding: 11px 0px;
+    }
+    .table_columns ul h2{
+        font-size: 25px;
+    }
+    .our_blog .blog_details{
+        margin: 2px 0px 0px 0px;
+    }
+    .testimonials{
+        margin: 25px 0px;
+    }
+    .thumb_nail h3{
+        font-size: 15px;
+    }
+    .thumb_nail p{
+        width: 100%;
+        font-size: 12px;
+    }
+    .table_columns ul li{
+        font-size: 13px;
+    }
+    .counter_banner{
+        margin: 35px 0px 0px 0px;
+    }
+    .counters p{
+        margin: 0px 0px 35px 0px;
+    }
+}
